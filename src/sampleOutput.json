@@ -1,0 +1,76 @@
+{
+  "status": "ok",
+  "totalResults": 7,
+  "articles": [
+    {
+      "source": { "id": "die-zeit", "name": "Die Zeit" },
+      "author": null,
+      "title": "Tiere: Neue Erdmännchen-Truppe im Rostocker Zoo ",
+      "description": null,
+      "url": "https://www.zeit.de/news/2023-04/11/neue-erdmaennchen-truppe-im-rostocker-zoo",
+      "urlToImage": null,
+      "publishedAt": "2023-04-11T12:09:46+00:00",
+      "content": "When browsing with ads:\r\nWe collect personal data and also transmit it to third-party providers\r\n that help us improve and finance our digital content. Some of the information stored on your device, … [+732 chars]"
+    },
+    {
+      "source": { "id": "abc-news", "name": "ABC News" },
+      "author": "ELAINE KURTENBACH AP Business Writer",
+      "title": "World shares mostly higher ahead of US inflation data",
+      "description": "Stocks are mostly higher in Europe and Asia ahead of the release this week of U.S. consumer inflation data",
+      "url": "https://abcnews.go.com/US/wireStory/asian-shares-higher-after-mixed-day-wall-street-98493027",
+      "urlToImage": "https://s.abcnews.com/images/US/wirestory_c895e961ebda27945943a025069ed67d_16x9_992.jpg",
+      "publishedAt": "2023-04-11T06:23:18Z",
+      "content": "Stocks were mostly higher in Europe and Asia on Tuesday ahead of the release this week of U.S. consumer inflation data. \r\nRecent reports on the U.S. economy have reinforced expectations the Federal R… [+3896 chars]"
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": "KCAL News",
+      "title": "Gov. Gavin Newsom state to stockpile abortion pills following Texas judge's ruling - KCAL News",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CCAiC0hLbmhsc2tXLXZFmAEB?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-04-11T04:45:27+00:00",
+      "content": null
+    },
+    {
+      "source": { "id": "ars-technica", "name": "Ars Technica" },
+      "author": "Ron Amadeo",
+      "title": "More Google Assistant shutdowns: Third-party smart displays are dead",
+      "description": "Software support is dead, and all the hardware is out of stock.",
+      "url": "https://arstechnica.com/gadgets/2023/04/google-is-killing-third-party-google-assistant-smart-displays/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/04/12-760x380.jpg",
+      "publishedAt": "2023-04-10T17:24:49+00:00",
+      "content": "127 with \r\n<ul><li>\r\n The Lenovo Smart Display 7: The newest (2019) third-party smart display out there. \r\n</li><li>\r\n This Lenovo Google Assistant Smart Display is the first device to ship with Andr… [+3907 chars]"
+    },
+    {
+      "source": { "id": "financial-post", "name": "Financial Post" },
+      "author": "Financial Post",
+      "title": "Financial Post",
+      "description": "Read expert analysis, Investment Equipment, Stock Screeners, and Monetary Strategy Information on investing in Canada. Get best investment advice from experts.",
+      "url": "http://business.financialpost.com/category/investing/",
+      "urlToImage": "https://dcs-static.gprod.postmedia.digital/13.0.2/websites/images/fp/ogimage-fp.png",
+      "publishedAt": "2023-03-10T19:22:32.2122783Z",
+      "content": null
+    },
+    {
+      "source": { "id": "financial-post", "name": "Financial Post" },
+      "author": "Financial Post",
+      "title": "Financial Post",
+      "description": "Stay up-to-date with the latest business trends and information on the Canadian economy, stock market and personal finance. Learn to save money, invest in the market, grow your wealth and advance your career with new skills.",
+      "url": "https://financialpost.com/category/personal-finance/business-essentials/",
+      "urlToImage": "https://dcs-static.gprod.postmedia.digital/12.2.3/websites/images/postmedia-image-fallback.png",
+      "publishedAt": "2022-11-13T00:37:35.7082248Z",
+      "content": null
+    },
+    {
+      "source": { "id": "fortune", "name": "Fortune" },
+      "author": "Kevin Kelleher",
+      "title": "Buybacks vs dividends? In market downturns, the rules may change",
+      "description": "CFOs can return profits to shareholders with dividends and buybacks. Here's how they may fare during a stock market selloff or recession.",
+      "url": "https://fortune.com/2022/06/01/buybacks-vs-dividends-stock-market-downturns-recession-cfo-daily-newsletter/",
+      "urlToImage": "https://content.fortune.com/wp-content/uploads/2022/05/GettyImages-1310316502.jpg?resize=1200,600",
+      "publishedAt": "2022-06-01T10:15:00Z",
+      "content": "Skip to Content"
+    }
+  ]
+}
